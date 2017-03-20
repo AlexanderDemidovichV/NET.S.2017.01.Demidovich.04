@@ -5,12 +5,12 @@ using System.Linq;
 namespace Task3
 {
     /// <summary>
-    /// Provides static methods for 
+    /// Provides static methods for integers
     /// </summary>
     public static class IntegerHandler
     {
         /// <summary>
-        /// Find next the bigger number by digit'str permutation.
+        /// Find next the bigger number with <paramref name="number"/> digits.
         /// </summary>
         /// <param name="number">A positive integer that provides digits.</param>
         /// <returns>The index of the first bigger value than <paramref name="number"/>, if found; otherwise, minus 1.</returns>
@@ -20,7 +20,7 @@ namespace Task3
         }
 
         /// <summary>
-        /// Find next the bigger number by digit'str permutation.
+        /// Find next the bigger number with <paramref name="number"/> digits.
         /// </summary>
         /// <param name="number">A positive integer that provides digits.</param>
         /// <returns>The index of the first bigger value than <paramref name="number"/>, if found; otherwise, minus 1.</returns>
@@ -46,7 +46,7 @@ namespace Task3
         }
 
         /// <summary>
-        /// Gets all possible combinations by chars permutations.
+        /// Gets all possible combinations with <paramref name="str"/> chars.
         /// </summary>
         /// <param name="str">A string provides chars.</param>
         /// <returns>All possible permutation combinations.</returns>
