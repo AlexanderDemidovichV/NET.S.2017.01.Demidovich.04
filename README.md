@@ -3,10 +3,13 @@
 Task1:
 
 >Разработать unit-тесты с использованием как NUnit Framework, так и MS Unit Test Framework (здесь использовать подход  Data Driven Testing, пример в архиве UnitTesting.zip, проекты DDT.Demo и DDT.Demo.Tests) для тестирования метода из задачи 3 дня 3 (ниже пример заготовки для тестового класса с использованием NUnit Famework-a). 
+- Сссылка на тесты: https://github.com/AlexanderDemidovichV/NET.S.2017.01.Demidovich.03/tree/master/Task3.DDT
    
 Task2:
 
 >Разработать unit-тесты для тестирования методов задач (дни 2-3). (здесь и далее желательно использовать для тестирования NUnit Framework).
+- Сссылка на тесты:https://github.com/AlexanderDemidovichV/NET.S.2017.01.Demidovich.01
+- Сссылка на тесты:https://github.com/AlexanderDemidovichV/NET.S.2017.01.Demidovich.03
 
 Task3:
 
